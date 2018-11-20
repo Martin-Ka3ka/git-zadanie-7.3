@@ -10,17 +10,17 @@ body {
 
 h1 {
 	color:pink;
-	text-align: left;
+	text-align: center;
 	text-shadow: blue;
 }
 
 h2 {
-	text-align: left;
+	text-align: center;
     color:red;
 }
 
 h3 {
-	text-align: left;
+	text-align: center;
 	color: blue;
 
 }
